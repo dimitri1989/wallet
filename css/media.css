@@ -1,0 +1,690 @@
+@media (max-width: 1399px) {
+    .container {
+        width: 100%;
+    }
+
+    .the-third-background {
+        background: #3B3B3B;
+        border-radius: 20px;
+        margin-right: 1px;
+        width: 267px;
+        height: 238px;
+        position: relative;
+        margin-bottom: 30px;
+    }
+
+}
+
+
+
+
+
+@media (max-width: 1199px) {
+    .container {
+        width: 100%;
+    }
+
+    .the-third-background {
+        background: #3B3B3B;
+        border-radius: 20px;
+        margin-right: -3px;
+        width: 226px;
+        height: 238px;
+        position: relative;
+        margin-bottom: 30px;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .container {
+        width: 100%;
+    }
+
+    /* registration page */
+
+    .news {
+        width: 100%;
+        
+    }
+    .buton4 {
+        width: 100%; 
+    }
+    .news input {
+        border: none;
+        height: 60%;
+        width: 70%;
+        margin-left: 12px;
+        padding-left: 0;
+}
+
+     /* registration and */
+
+    .span1 {
+        display: block;
+        height: 1.5px;
+        width: 12.75px;
+        border: 2px;
+        background: #FFFFFF;
+        margin-bottom: 4.5px;
+    }
+
+    .one-240k {
+        font-size: 25px;
+    }
+
+    .one-total {
+        font-size: 18.99px;
+    }
+
+    .span2 {
+        display: block;
+        height: 1.5px;
+        width: 18px;
+        border: 2px;
+        background: #FFFFFF;
+        margin-bottom: 4.5px;
+    }
+
+    .span3 {
+        display: block;
+        height: 1.5px;
+        width: 12.75px;
+        border: 2px;
+        background: #FFFFFF;
+        margin-bottom: 4.5px;
+    }
+
+    .card-title-2 {
+        font-size: 20px;
+    }
+
+    .d-8 {
+        font-size: 12px;
+    }
+
+    .seven-background-p {
+        font-size: 12px;
+    }
+
+    .imgr {
+        width: 80%;
+    }
+
+    .the-third-background {
+        background: #3B3B3B;
+        border-radius: 20px;
+        margin-right: -5px;
+        width: 340px;
+        height: 238px;
+        position: relative;
+        margin-bottom: 30px;
+    }
+
+
+
+}
+
+@media (max-width: 767px) {
+    .container {
+        width: 100%;
+    }
+    /*wallet page */
+   
+    .wallet-bacgkround{
+        width: 100%;
+        height: 60px;
+        background: #3B3B3B;
+        border: 1px solid #A259FF;
+        border-radius: 20px;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+    }
+    .wallet-bacgkround img{
+        width: 40px;
+        height: 40px;
+        margin-left: 0;
+        margin-right: 20px;
+    }
+
+ 
+    /*registration page */
+    .artist-Fallow-btn {
+        margin: 0;
+        width: 100;
+    }
+
+    .hide-element8{
+        display: inline-block;
+        
+    }
+    .hide-element88{
+        display: block;
+        
+    }
+
+    .hide-element7{
+        display: none!important;;
+    }
+    .main-h2{
+        font-size: 38px;
+        line-height: 120%;
+        
+    }
+    .main-h3{
+        font-size: 16px;
+        line-height: 140%;
+        margin-bottom: 30px;
+        
+    }
+ 
+
+    .news{
+        width: 100%;
+       
+    }
+ /*registration and */
+
+
+    .paddin-0 {
+        padding: 0;
+    }
+
+
+    .position-9 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .position-9:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .position-9:last-child {
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        padding-right: 20px;
+    }
+
+    .one-total2 {
+        padding-right: 30px;
+    }
+
+    .navbar-nav{
+        margin-left: 20px !important;
+        padding-left: 14px;
+    }
+
+    .hide-element {
+        display: hide;
+    }
+
+    .hide-element2 {
+        display: inline;
+    }
+
+    .footer-line {
+        margin-top: 10px;
+    }
+
+    .container-one__art {
+        display: none;
+    }
+
+    .navbar {
+
+        width: 100
+    }
+
+    .position-1{
+        display: flex;
+        flex-direction: column;
+        padding: 20px 13px 19px 19px;
+    
+    }
+
+    .container-one__art-mobile {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 28px;
+        line-height: 140%;
+        text-transform: capitalize;
+        color: #FFFFFF;
+        display: inline
+    }
+
+    .seven-background {
+        background: #3B3B3B;
+        border-radius: 20px;
+        line-height: 140%;
+        height: 157px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        flex-direction: row;
+
+    }
+
+    .seven-background img {
+        width: 100px;
+        height: 100px;
+        margin-left: 20px;
+        margin-right: 20px;
+
+    }
+
+    .seven-background-h2 {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 140%;
+        color: #FFFFFF;
+        text-align: left;
+    }
+
+    .seven-background-p2 {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 10%;
+        color: #FFFFFF;
+
+    }
+
+    .imgr {
+        width: 243.41px;
+        height: 32px;
+    }
+
+    br {
+        display: block;
+        /* makes it have a width */
+        content: "";
+        /* clears default height */
+        margin-top: 0;
+        /* change this to whatever height you want it */
+    }
+
+    .one-240k {
+        font-size: 22px;
+    }
+
+    .one-total {
+        font-size: 16px;
+    }
+
+    .second-colection {
+        font-size: 38px;
+    }
+
+    .the-third-top {
+        font-size: 28px;
+    }
+
+    .the-third-Creators {
+        font-size: 22px;
+
+    }
+
+    .position-card2 img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .fourth-section_title {
+        font-size: 28px;
+    }
+
+    .card-title-2 {
+        font-size: 16px;
+    }
+
+    .position-card2 img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .six-section__background-h3 {
+        font-size: 38px;
+    }
+
+    .footer-by {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 110%;
+        color: #CCCCCC;
+        margin-top: 20px;
+    }
+
+    .background-8 {
+
+        border-radius: 20px;
+        min-height: 430px;
+        background: #2B2B2B;
+    }
+
+    .footer-container {
+        background: #3B3B3B;
+
+    }
+
+    form {
+        height: 150px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        background: none;
+
+    }
+
+    .buton3 {
+        background: #A259FF;
+        border-radius: 20px;
+        border: none;
+        height: 60px;
+        width: 100%;
+
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 140%;
+        /* or 22px */
+
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    input{
+        background: #FFFFFF;
+        border-radius: 20px;
+        width: 100%;
+        height: 60px;
+        border:0px;
+        margin-left: 0;
+        margin-bottom: 18px;
+        
+        
+        
+      }
+      input::placeholder{
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 140%;
+        color: #2B2B2B;
+        padding-left: 20px;
+        border:0px;
+      }
+      input[type=submit]{
+        
+        background: #A259FF;
+        border-radius: 20px;
+        border:0px;
+        margin-left: 0;
+        width: 100%;
+        
+       
+        
+      }
+
+    .meil {
+        margin-left: 0px;
+    }
+
+    .er {
+        margin-left: -5px;
+    }
+
+    .seven-section {
+        margin-bottom: 20px;
+    }
+
+
+
+    .hide-element {
+        display: none !important;
+        background-color: #A259FF !important;
+    }
+
+    .the-third-background {
+        margin-right: 21px;
+        width: 95%;
+        position: relative;
+        margin-bottom: 30px;
+        height: 115px;
+        background: #3B3B3B;
+        border-radius: 20px;
+        display: flex;
+        justify-content: flex-start;
+
+    }
+
+    .background-six__filter {
+        background: rgba(59, 59, 59, 0.5);
+        backdrop-filter: blur(5px);
+        border-radius: 20px;
+        width: 100%;
+        height: 144px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .seven-works {
+        font-size: 28px;
+    }
+
+    .seven-find {
+        font-size: 16px;
+    }
+
+    .the-third-background img {
+        width: 60px;
+    }
+
+    .third__position-h3 {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: start;
+        padding-left: 20px;
+        padding-top: 20px;
+
+    }
+
+    .third-position {
+        position: absolute;
+        top: 18px;
+        left: 10px;
+    }
+
+    .topbtn {
+
+        width: 95%;
+        height: 60px;
+        border: 2px solid #A259FF;
+        border-radius: 20px;
+        margin-left: 11px;
+    }
+
+    .six-section {
+        background: linear-gradient(180deg, rgba(162, 89, 255, 0) 0%, #A259FF 100%), url(../img/mob.png) no-repeat;
+        height: 590px;
+        background-size: 100%;
+
+    }
+
+    .possitionimg {
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+
+    .navbar-toggler-icon2 {
+        background-color: red;
+    }
+
+    .navbar-toggler {
+        border: 0px;
+
+    }
+
+    .span1 {
+        display: block;
+        height: 1.5px;
+        width: 12.75px;
+        border: 2px;
+        background: #FFFFFF;
+        margin-bottom: 4.5px;
+    }
+
+    .span2 {
+        display: block;
+        height: 1.5px;
+        width: 18px;
+        border: 2px;
+        background: #FFFFFF;
+        margin-bottom: 4.5px;
+    }
+
+    .span3 {
+        display: block;
+        height: 1.5px;
+        width: 12.75px;
+        border: 2px;
+        background: #FFFFFF;
+        margin-bottom: 4.5px;
+    }
+       /*artist page */
+       .height{
+        height: 250px;
+    }
+       .artist-btn {
+        width: 100%;
+        margin: 0;
+
+    }
+   
+
+    .avatar{
+   
+        
+        width: 124px;
+        position: relative;
+        top: -199%;
+        
+        right: 5px;
+        left: 33%;
+        
+        
+    }
+    .card2{
+        width: 100%;
+    }
+   
+    .artist-btn2{
+        width: 100%; 
+        margin: 0;
+    }
+    .artist-name{
+        margin-bottom: 30px;
+    }
+    .active-created{
+        font-weight: 600;
+    }
+    .active-line::after{
+        position: absolute;
+        border: 1px solid #857b7b;
+        width: 100%;
+        bottom: 0;
+        right: 0;
+        content: "";
+       
+    
+        
+    }
+
+
+}
+
+@media (max-width: 767px) {
+    .container {
+        width: 100%;
+    }
+    .navbar-brand{
+        padding-left: 0px;
+
+    }
+ 
+
+}
+@media (max-width: 575px) {
+    .container {
+        width: 100%;
+    }
+/*artist page */
+    .padding-12{
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+/*artist page */
+
+}
+
+@media (max-width: 305px) {
+    .container {
+        width: 100%;
+    }
+
+    .hide-element5 {
+        display: none;
+    }
+
+    .navbar-brand img {
+        width: 10%;
+    }
+
+    .position-1 {
+        padding: 14px 107px 23px 118px;
+    }
+    .avatar{
+   
+        
+        width: 124px;
+        position: relative; 
+        right: 5px;
+        left: 27%;
+        
+    }
+
+}
+
+@media (max-width: 268px) {
+    .container {
+        width: 100%;
+    }
+
+    .hide-element6 {
+        display: none;
+    }
+
+    .navbar-brand img {
+        width: 10%;
+    }
+
+    .position-1 {
+        padding: 20px 50px 40px 11px;
+    }
+
+}

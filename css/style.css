@@ -1,0 +1,1052 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #2B2B2B;
+}
+
+.sd {
+    background-color: rgb(202, 195, 226);
+}
+
+
+.nav-link {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+    margin-right: 50px;
+    padding-top: 20px;
+
+}
+
+.nav-link:hover {
+    color: #FFFFFF;
+}
+
+.btn-success2 {
+    width: 152px;
+    height: 60px;
+    background: #A259FF;
+    border-radius: 20px;
+    border: 0px;
+    color: #FFFFFF;
+    padding-top: 17px;
+}
+
+.btn-success {
+    width: 152px;
+    height: 60px;
+    background: #A259FF;
+    border-radius: 20px;
+    border: 0px;
+}
+
+.position-1 {
+    padding: 20px 50px 20px 50px;
+}
+
+.btn-success:hover {
+    width: 152px;
+    height: 60px;
+    background: #4a3664;
+    border-radius: 20px;
+}
+
+.container-one__art {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 67px;
+    line-height: 110%;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+
+}
+
+.container-one__markplace {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.card {
+    
+    border: 0px;
+}
+
+.card-position {
+    margin-right: 55px;
+}
+
+.card-body-background {
+    background: #3B3B3B;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.one-240k {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.one-total {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23.99px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.second-section {
+    margin-bottom: 80px;
+}
+
+.second-colection {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.second-colection__h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+}
+
+.second-1025 {
+    background: #A259FF;
+    border-radius: 20px;
+    width: 28%;
+
+}
+
+.second-1025-title {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+.second-avatar-h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 140%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.second-avatar-p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.the-third-section {
+    margin-bottom: 80px;
+}
+
+.the-third-top {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+
+}
+
+.the-third-Creators {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+
+.btn-outline-primary {
+    border: 2px solid #A259FF;
+    border-radius: 20px;
+
+    width: 247px;
+    height: 60px;
+}
+
+.btn-outline-primary:hover {
+    background: #2B2B2B;
+    border-radius: 20px;
+    border: 2px solid #8247cf;
+    border-radius: 20px;
+}
+
+.topbtn-h3 {
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.the-third-background {
+    background: #3B3B3B;
+    border-radius: 20px;
+    margin-right: 15px;
+    width: 300px;
+    height: 238px;
+    position: relative;
+    margin-bottom: 30px;
+    margin-left: 15px;
+
+
+}
+
+.the-third-background img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.the-third-background:last-child {
+    background: #3B3B3B;
+    border-radius: 20px;
+    margin-right: 0px;
+
+}
+
+.the-third-background-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.the-third-background-h4 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    align-items: center;
+    color: #858584;
+    padding-bottom: 20px;
+}
+
+.the-third-background-h4 span {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.third-position {
+    background: #2B2B2B;
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 22px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #858584;
+    left: 22px;
+}
+
+.fourth-section_title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.position-imgcard img {
+    width: 100%;
+    height: 100%;
+    border-end-end-radius: 10px;
+}
+
+.position-card2 {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(7.5px);
+    border-radius: 20px 20px 0px 0px;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    z-index: 3;
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+}
+
+.position-card2 img {
+    width: 100px;
+    height: 100px;
+}
+
+.card {
+    position: relative;
+    margin-bottom: 70px;
+    width: 95%;
+    border: 0px;
+    background:none; 
+    
+}
+
+.card-body {
+    background: #3B3B3B;
+    border-radius: 20px;
+    border-start-start-radius: 0px;
+    border-start-end-radius: 0px;
+    position: absolute;
+    width: 100%;
+    top: 92%;
+    z-index: 4;
+    height: 76px;
+}
+
+.card-title-2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 140%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+
+.topbtn-1 {
+    margin-bottom: 20px;
+
+}
+
+.list-group-item {
+    background: #3B3B3B;
+    border: 0px;
+    padding: 0px;
+    padding-left: 30px;
+}
+
+.list-new {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 140%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.list-group-p {
+    padding-bottom: 40px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.card-body a {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.card-8 {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 110%;
+    color: #858584;
+    padding-left: 15px;
+
+
+}
+
+.card-9 {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 110%;
+    color: #858584;
+    text-align: right;
+}
+
+.d-8 {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.Fifth-section {
+    margin-top: 100px;
+    padding-bottom: 80px;
+}
+
+.six-section {
+
+    background: linear-gradient(180deg, rgba(162, 89, 255, 0) 0%, #A259FF 100%), url(../img/soko.png) no-repeat;
+    height: 640px;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: flex-end;
+    background-size: 100%;
+
+
+
+
+}
+
+.six-section__background {
+    width: 151px;
+    height: 44px;
+    background: #3B3B3B;
+    border-radius: 20px;
+}
+
+.six-section__background-h2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+    padding-top: 12px;
+}
+
+.six-section__background img {
+    width: 24px;
+    height: 24px;
+    margin-top: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.six-section__background-h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 51px;
+    line-height: 110%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.bt {
+    width: 198px;
+    height: 60px;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.bt:hover {
+
+    background: #c2abab;
+    border-radius: 20px;
+}
+
+.topbtn-h31 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #2B2B2B;
+}
+
+.background-six__filter {
+    background: rgba(59, 59, 59, 0.5);
+    backdrop-filter: blur(5px);
+    border-radius: 20px;
+    width: 290px;
+    height: 144px;
+    margin-top: 75px;
+}
+
+.backgroud-filter__text {
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 110%;
+    color: #FFFFFF;
+}
+
+.six-time__hour {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.six-time__minut {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.six-time__sec {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.six-time__time {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.six-time {
+    margin-left: 30px;
+}
+
+.seven-section {
+    margin-bottom: 100px;
+}
+
+.seven-works {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.seven-find {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+
+}
+
+.seven-background {
+    background: #3B3B3B;
+    border-radius: 20px;
+    height: 439px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.seven-background-h2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.seven-background-p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.background-8 {
+    background: #3B3B3B;
+    border-radius: 20px;
+    min-height: 500px;
+    margin: 0;
+
+
+}
+
+.buton3 {
+
+    background: #A259FF;
+    border-radius: 20px;
+    border: 0px;
+
+    width: 55%;
+    height: 60px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    /* or 22px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+form {
+
+    background: #FFFFFF;
+    border-radius: 20px;
+    height: 60px;
+    /* width: 100%; */
+    display: flex;
+    justify-content: end;
+}
+
+
+.footer-container {
+    min-height: 334px;
+    background: #3B3B3B;
+}
+
+.fourth-right {
+    display: flex;
+    width: 800px;
+
+}
+
+.footer-left_h2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #CCCCCC;
+    margin-bottom: 30px;
+}
+
+.footer-center_h2 {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.footer-center_h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #CCCCCC;
+    margin-bottom: 20px;
+}
+
+.meil {
+    margin-left: -23px;
+}
+
+input {
+
+    padding-left: 18px;
+    width: 50%;
+    height: 45px;
+    border: 0px;
+    margin-top: 6px;
+    margin-left: 18px;
+    outline: none;
+
+}
+
+.hide-element3 {
+    display: block;
+}
+
+input[type=submit] {
+    width: 60%;
+    background: #A259FF;
+    border-radius: 20px;
+    border: 0px;
+    height: 60px;
+    margin-top: 0px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.container-one__art-mobile {
+    display: none;
+}
+
+.envelope-regular {
+    background-image: url(../icons/EnvelopeSimplebbb.png);
+}
+
+.footer-line {
+    border: 1px solid #858584;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.footer-by {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 110%;
+    color: #CCCCCC;
+    margin-top: 20px;
+}
+
+.hide-element2 {
+    display: none;
+}
+
+
+/* registration page*/
+
+.form2 {
+    background-color: none;
+    display: inline
+}
+
+.input2 {
+    padding-left: 18px;
+    width: 90%;
+    height: 45px;
+    border: 0px;
+    margin-top: 6px;
+    margin-left: 18px;
+    outline: none;
+}
+
+.buton4 {
+    background: #A259FF;
+    border-radius: 20px;
+    border: none;
+    width: 330px;
+    height: 46px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.news {
+    background: #FFFFFF;
+    border: 1px solid #858584;
+    border-radius: 20px;
+    width: 330px;
+    margin-bottom: 15px;
+    height: 46px;
+
+}
+
+.news input {
+    border: none;
+    height: 30px;
+    width: 80%;
+    margin-left: 12px;
+    padding-left: 0;
+    padding-top: 0;
+
+}
+
+.news input::placeholder {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #2B2B2B;
+
+}
+
+.registration-meil-botton {
+
+    background: #A259FF;
+    border-radius: 20px;
+    border: none;
+    height: 60px;
+    width: 100%;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    /* or 22px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.hide-element8 {
+    display: none;
+}
+
+.main-h2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 51px;
+    line-height: 110%;
+    align-items: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.main-h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+}
+
+.main-content {
+    margin-left: 60px;
+}
+
+.footer-left_h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #CCCCCC;
+}
+
+/*artist page*/
+
+.artist-name {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 51px;
+    line-height: 110%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    padding-top: 90px;
+}
+
+.artist-btn {
+    width: 186px;
+    margin-right: 20px;
+    margin-top: 90px;
+}
+
+.artist-btn2 {
+    width: 145px;
+    margin-top: 90px;
+}
+
+.artist-bio {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #858584;
+}
+
+.active-created {
+    font-weight: 600;
+}
+
+.artist-background {
+    width: 50px;
+    height: 32px;
+    background: #858584;
+    border-radius: 20px;
+    margin-left: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.not-active {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 140%;
+    text-transform: capitalize;
+    color: #858584;
+}
+
+.artist-background2 {
+    width: 40px;
+    height: 32px;
+    
+
+}
+
+.active-line {
+    position: relative;
+
+}
+
+.active-line::after {
+    position: absolute;
+    border: 2px solid #6d6565;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    content: "";
+}
+.artist-content{
+    background: #3B3B3B;
+    padding-top: 80px;
+}
+.card-body{
+    background: #2B2B2B;
+}
+.list-group-item{
+    background: #2B2B2B;
+}
+.pading-div{
+    padding-bottom: 80px;
+    
+}
+.footer-line2{
+    width: 100%;
+    margin-top: 1px;
+}
+.artist-header{
+    position: relative;
+}
+.avatar{
+    width: 124px;
+    position: relative;
+    top: -190%;
+    right: 24px;
+    height: 30px; 
+}
+.avatar img{
+    border-radius: 20px;
+    border: 2px solid #2B2B2B;
+     
+}
+ /*wallet page */
+.wallet-bacgkround{
+    width: 320px;
+    height: 72px;
+    background: #3B3B3B;
+    border: 1px solid #A259FF;
+    border-radius: 20px;
+    
+    
+}
+.position10{
+    padding-left: 60px!important;
+   
+}
+.wallet-bacgkround img{
+    width: 40px;
+    height: 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.hide-element88{
+    display: none;
+    
+}
